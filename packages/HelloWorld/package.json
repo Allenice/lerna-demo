@@ -1,6 +1,6 @@
 {
   "name": "@allenice/hello",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "hello",
   "main": "index.js",
   "scripts": {

@@ -1,6 +1,6 @@
 {
   "name": "@allenice/echo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,9 @@
   },
   "author": "allenice",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "vue": "^2.5.16",
     "vue-loader": "^15.2.4"

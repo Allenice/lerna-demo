@@ -1,17 +1,15 @@
 {
-  "name": "@allenice/hello",
-  "version": "1.0.3",
-  "description": "hello",
+  "name": "@allenice/echo",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "allenice",
   "license": "ISC",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
-    "lodash": "^4.17.10"
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4"
   }
 }
